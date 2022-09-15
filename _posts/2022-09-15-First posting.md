@@ -7,10 +7,6 @@ categories:
 tags:
   - [Blog, jekyll, Github, Git]
 
-comment: true
-
-author: Beomhyuck
-
 toc: true
 toc_sticky: true
  
