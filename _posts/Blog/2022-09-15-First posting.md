@@ -3,7 +3,7 @@ title:  "Git Hub를 이용한 첫번째 포스팅"
 excerpt: "GitHub Blog를 이용하기 위한 샘플 포스팅. 첫번째 포스팅 업로드 "
 
 categories:
-  - Blog
+  - Category_Blog
 tags:
   - [Blog, jekyll, Github, Git]
 
