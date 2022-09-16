@@ -16,9 +16,6 @@ sidebar-category:
     children:
       - title : "블로그"
         url     : "/blog"
-    
-      - title : "Blog"
-        url   : "/Category_Blog"
 
       - title : "Git"
         url   : "/Category_Git"
