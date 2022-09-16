@@ -13,10 +13,12 @@ main:
 
 sidebar-category:
   - title   : "카테고리"
-    url     : "/blog"
+    children:
+      - title : "블로그"
+      url     : "/blog"
     
-    - title : "Blog"
-      url   : "/Category_Blog"
+      - title : "Blog"
+        url   : "/Category_Blog"
 
-    - title : "Git"
-      url   : "/Category_Git"
+      - title : "Git"
+        url   : "/Category_Git"
