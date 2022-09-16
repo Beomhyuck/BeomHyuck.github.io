@@ -15,7 +15,7 @@ sidebar-category:
   - title   : "카테고리"
     children:
       - title : "블로그"
-      url     : "/blog"
+        url     : "/blog"
     
       - title : "Blog"
         url   : "/Category_Blog"
