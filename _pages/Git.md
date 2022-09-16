@@ -1,7 +1,7 @@
 ---
 title: "blog"
 layout: archive
-permalink: Category/Git
+permalink: /Category_Git
 ---
 
 
