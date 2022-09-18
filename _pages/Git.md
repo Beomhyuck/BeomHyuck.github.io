@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "Git"
 layout: archive
 permalink: /Category_Git
 ---
