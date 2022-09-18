@@ -19,3 +19,6 @@ sidebar-category:
 
       - title : "Git"
         url   : "/Category_Git"
+
+      - title : "Javascript"
+        url   : "/Category_Javascript"
