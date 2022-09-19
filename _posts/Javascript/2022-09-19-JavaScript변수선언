@@ -1,11 +1,11 @@
 ---
-title:  "DOM이란"
-excerpt: "DOM이 무엇인지에 대해서 알아보기"
+title:  "JavaScript 변수 선언"
+excerpt: "JavaScript 변수 선언 3가지의 차이점"
 
 categories:
   - Javascript
 tags:
-  - [Dom, Javascript, html]
+  - [Javascript, html]
 
 comment: true
 
