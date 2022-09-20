@@ -66,6 +66,11 @@
                         <li><a href="/Category_Javascript" class=""> Javascript ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+                {% for category in site.categories %}
+                    {% if category[0] == "Javascript_Practice" %}
+                        <li><a href="/Category_Javascript_Practice" class=""> 연습문제 ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
            </ul>
       </li>
   </ul>
