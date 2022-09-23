@@ -23,5 +23,5 @@ sidebar-category:
       - title : "Javascript"
         url   : "/Category_Javascript"
 
-      - title : "Javascript"
-        url   : "/Category_Javascript_Practice"
+      # - title : "Javascript"
+      #   url   : "/Category_Javascript_Practice"
