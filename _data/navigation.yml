@@ -28,3 +28,6 @@ sidebar-category:
       
       - title : "network"
         url   : "/Category_network"
+
+      - title : "BlockChain"
+        url   : "/Category_blockChain"
